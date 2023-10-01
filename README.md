@@ -1,4 +1,4 @@
 # vue-landing
 ```
-Simple landing page made with VueJS + Vuetify (Material Design).
+Landing page made with VueJS + Vuetify for 3d-pack company.
 ```
