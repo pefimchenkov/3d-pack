@@ -1,0 +1,35 @@
+{
+  "name": "3d-pack",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@mlqt/vue-back-top": "^1.0.8",
+    "aos": "^3.0.0-beta.6",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.15.0",
+    "dotenv": "^8.2.0",
+    "emailjs-com": "^2.6.3",
+    "vue": "^2.6.11",
+    "vue-observe-visibility": "^0.4.6",
+    "vue-router": "^3.3.4",
+    "vue-yandex-maps": "^0.10.9",
+    "vuelidate": "^0.7.5",
+    "vuetify": "^2.3.4",
+    "vuex": "^3.5.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.4",
+    "@vue/cli-plugin-eslint": "^3.12.1",
+    "@vue/cli-service": "^3.0.4",
+    "dotenv-webpack": "^2.0.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^7.3.1",
+    "vue-cli-plugin-vuetify": "^0.2.1",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
