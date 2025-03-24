@@ -1,4 +1,4 @@
-# 3d-pack
+# Сайт-визитка (landing page) для компании 3Д Пак (Ярославь)
 ```
-Landing page made with VueJS + Vuetify for 3d-pack company.
+Стек - VueJS + Vuetify
 ```
